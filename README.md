@@ -16,3 +16,18 @@ Segundo projeto desenvolvido durante o curso, com foco na construção de uma p�
 
 <img src="https://github.com/ismaelsh05/Projeto-DevClub-Wide-coverage-location/blob/main/img/Captura%20de%20tela%202026-10-27%20194131..png?raw=true">
 <img src="https://github.com/ismaelsh05/Projeto-DevClub-Wide-coverage-location/blob/main/img/Captura%20de%20tela%202026-10-27%20194251..png?raw=true">
+
+## 🎨 Design
+
+Os projetos foram desenvolvidos com base em modelos de referência do Figma, utilizados como inspiração para a construção das páginas web.
+
+## 🛠️ Tecnologias utilizadas
+
+- HTML
+- CSS
+
+## 🎯 Objetivo
+
+Praticar e aprimorar meus conhecimentos em desenvolvimento web, criando projetos e aplicando os conceitos aprendidos durante as aulas do DevClub.
+
+📚 Projetos desenvolvidos durante minha jornada de aprendizado em programação.
